@@ -1,1 +1,1 @@
-# Classification-of-Wine
+# Classification
